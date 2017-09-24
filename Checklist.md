@@ -29,9 +29,11 @@ https://www.codecademy.com/learn/learn-python
 2. GitHub tutorials
 
 https://guides.github.com/activities/hello-world/
+
 https://guides.github.com/introduction/getting-your-project-on-github/
 
 https://www.youtube.com/watch?v=0fKg7e37bQE
+
 https://www.youtube.com/watch?v=EUvmCuPjHD4
 
 
